@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0937e403c8fa1d42ab2fc8e38badb3d, type: 3}
+  m_Name: LeaderboardAnimSettings
+  m_EditorClassIdentifier: Assembly-CSharp::LeaderboardAnimSettings
+  introDelay: 0.5
+  offsetPadding: 0
+  offsetDelay: 0.06
+  introDuration: 0.45
+  introEase: 27
+  moveEase: 7
+  scaleUpEase: 5
+  scaleDownEase: 26
+  delayBeforeRankUp: 0.7
+  rankUpScale: 1.15
+  rankUpScaleDown: 0.9
+  rankUpScaleDuration: 0.2
+  rankUpScaleDownDuration: 0.15
+  moveDuration: 0.7
+  scrollDuration: 0.8

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AT_Leaderboard
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c3ba3b20356469642802b72ad7952f12, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a5efa8128787d0e4888d9f56c1b90f9c: 21300000
+    - 36c1dad2a4452ad4eb796558026debe4: 21300000
+    - afe5cae35aed42a4cb3379e4d866b32d: 1972245439
+    - afe5cae35aed42a4cb3379e4d866b32d: 1177684670
+    - afe5cae35aed42a4cb3379e4d866b32d: 1993220765
+    - afe5cae35aed42a4cb3379e4d866b32d: 462397756
+    - afe5cae35aed42a4cb3379e4d866b32d: -752879404
+    - afe5cae35aed42a4cb3379e4d866b32d: -437074116
+    - afe5cae35aed42a4cb3379e4d866b32d: -3555759085502863393
+    - 043e57651ec5ae947add920a689f3ab0: 21300000
+    - fd6d31e5302242d46a6b738df0c9aa74: 21300000
+    - ed3ef77766f71c94485fa9420eaa05d2: 21300000
+    - b5d0c958b15244c4991bee7c009349ef: 21300000
+    - 805ada292395aeb4eb76cc91fc654d0c: 21300000
+    - 81b75f0db16f19843be48e12802a0b0c: 21300000
+    - 3fee836d42745bc42804cd1731dd3b37: 21300000
+    - ff2dc89d49513664dbf433b65a98e942: 21300000
+    - cdc37ceda8e860143b1ace5aa1cb9d7e: 21300000
+    - 32f0309e521e6fe48bbca5cc3d236c2d: 21300000
+    - 5279cb5f92ef20742872cfa228aea368: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a5efa8128787d0e4888d9f56c1b90f9c, type: 3}
+  - {fileID: 21300000, guid: 36c1dad2a4452ad4eb796558026debe4, type: 3}
+  - {fileID: 1972245439, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: 1177684670, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: 1993220765, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: 462397756, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: -752879404, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: -437074116, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: -3555759085502863393, guid: afe5cae35aed42a4cb3379e4d866b32d, type: 3}
+  - {fileID: 21300000, guid: 043e57651ec5ae947add920a689f3ab0, type: 3}
+  - {fileID: 21300000, guid: fd6d31e5302242d46a6b738df0c9aa74, type: 3}
+  - {fileID: 21300000, guid: ed3ef77766f71c94485fa9420eaa05d2, type: 3}
+  - {fileID: 21300000, guid: b5d0c958b15244c4991bee7c009349ef, type: 3}
+  - {fileID: 21300000, guid: 805ada292395aeb4eb76cc91fc654d0c, type: 3}
+  - {fileID: 21300000, guid: 81b75f0db16f19843be48e12802a0b0c, type: 3}
+  - {fileID: 21300000, guid: 3fee836d42745bc42804cd1731dd3b37, type: 3}
+  - {fileID: 21300000, guid: ff2dc89d49513664dbf433b65a98e942, type: 3}
+  - {fileID: 21300000, guid: cdc37ceda8e860143b1ace5aa1cb9d7e, type: 3}
+  - {fileID: 21300000, guid: 32f0309e521e6fe48bbca5cc3d236c2d, type: 3}
+  - {fileID: 21300000, guid: 5279cb5f92ef20742872cfa228aea368, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - T_Background_Other
+  - T_Header_Leaderboard
+  - AdditiveUI_Particle_Atlas_6
+  - AdditiveUI_Particle_Atlas_5
+  - AdditiveUI_Particle_Atlas_4
+  - AdditiveUI_Particle_Atlas_3
+  - AdditiveUI_Particle_Atlas_2
+  - AdditiveUI_Particle_Atlas_1
+  - AdditiveUI_Particle_Atlas_0
+  - T_Image_Profile_08
+  - T_Image_Profile_05
+  - T_Image_Profile_07
+  - T_Image_Profile_02
+  - T_Image_Profile_01
+  - T_Image_Profile_06
+  - T_Image_Profile_04
+  - T_Background_User_Green
+  - T_Frame_Leaderboard
+  - T_Button_Leaderboard_Close
+  - T_Image_Profile_03
+  m_RenderDataMap: {}
+  m_Tag: AT_Leaderboard
+  m_IsVariant: 0
+  m_Guid: d9e08c6a11568be448880f78db728d7f
